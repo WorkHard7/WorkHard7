@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @WorkHard7
 - 👀 I’m interested in gym and nature.
-- 🌱 I’m currently learning React and Node Js.
+- 🌱 I’m currently learning Angular TS and React.
 - 💞️ Ready for work!
 - 📫 How to reach me: solinuxnet@gmail.com
 
